@@ -1,4 +1,4 @@
-module github.com/Sockdolager/Learn_Go_Course
+module github.com/Sockdolager/Learn_Go_Course/1_1
 
 go 1.16
 
